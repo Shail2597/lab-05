@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Shail Shivabhai Chaudhari`
+- **CCID:** `shailshi`
 
 ## References and Resources
 
